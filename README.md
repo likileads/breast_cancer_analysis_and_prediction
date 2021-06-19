@@ -5,4 +5,4 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 ### Attributes Used:
 1. ID number
 2. Diagnosis (<b>M</b> : malignant, <b>B</b> : benign)
-3. [refer here](https://github.com/likileads/breast_cancer_analysis_and_prediction/blob/main/data/data.csv)
+3. [refer here (fist row)](https://github.com/likileads/breast_cancer_analysis_and_prediction/blob/main/data/data.csv)
