@@ -1,5 +1,7 @@
 # Breast cancer analysis and prediction
 
+![image](https://user-images.githubusercontent.com/70283754/123278397-87deda00-d524-11eb-9ecb-46168f1fd442.png)
+
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei.
 
 ### Attributes Used:
